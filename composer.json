@@ -1,5 +1,5 @@
 {
-    "name": "sourcetoad/soapy",
+    "name": "ridown/soapy",
     "description": "A Soap Client built for Laravel.",
     "type": "library",
     "license": "MIT",
